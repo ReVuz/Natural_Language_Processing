@@ -182,4 +182,4 @@ if __name__ == '__main__':
     train()
 
     # Uncomment this for inference testing
-    inference()
+    # inference()
